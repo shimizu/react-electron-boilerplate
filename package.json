@@ -2,6 +2,7 @@
   "name": "electron-skeleton",
   "version": "0.1.0",
   "private": true,
+  "description":"electron-example",
   "dependencies": {
     "electron-is-dev": "^0.3.0",
     "react": "^16.0.0",
