@@ -4,15 +4,14 @@ create-react-appとelectronを使って、できるだけ簡単にアプリの�
 
 以下の手順でインストールしてください。
 
+※ Macでしかテストしていません。
+
 ## インストール
 
 ```
 $ create-react-app electron-example
-```
-
-```
 $ git clone git@github.com:shimizu/react-electron-skeleton.git
-$ cp -r electron-skeleton/* electron-example
+$ cp -r react-electron-skeleton/ electron-example
 ```
 
 ```
