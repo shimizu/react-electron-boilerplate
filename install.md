@@ -11,7 +11,7 @@ $ create-react-app electron-example
 ```
 
 ```
-$git clone 
+$ git clone git@github.com:shimizu/react-electron-skeleton.git
 $ cp -r electron-skeleton/* electron-example
 ```
 
