@@ -11,7 +11,7 @@ create-react-appとelectronを使って、できるだけ簡単にアプリの�
 ```
 $ create-react-app electron-example
 $ git clone git@github.com:shimizu/react-electron-skeleton.git
-$ cp -r react-electron-skeleton/ electron-example
+$ cp -r react-electron-skeleton/* electron-example
 ```
 
 ```
