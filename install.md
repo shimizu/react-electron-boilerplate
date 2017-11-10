@@ -1,6 +1,6 @@
 # react-electron-skeleton
 
-create-react-appとelectronを使って、できるだけ簡単にアプリの開発環境を構築するためのスケルトンです。
+create-react-appとelectronを使って、できるだけ簡単にアプリの開発環境を構築するためのボイラープレートです。
 
 以下の手順でインストールしてください。
 
@@ -10,8 +10,8 @@ create-react-appとelectronを使って、できるだけ簡単にアプリの�
 
 ```
 $ create-react-app electron-example
-$ git clone git@github.com:shimizu/react-electron-skeleton.git
-$ cp -r react-electron-skeleton/* electron-example
+$ git clone git@github.com:shimizu/react-electron-boilerplate.git
+$ cp -r react-electron-boilerplate/* electron-example
 ```
 
 ```
