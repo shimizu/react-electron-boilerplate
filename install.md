@@ -1,4 +1,4 @@
-# react-electron-skeleton
+# react-electron-boilerplate
 
 create-react-appとelectronを使って、できるだけ簡単にアプリの開発環境を構築するためのボイラープレートです。
 
